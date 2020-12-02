@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Gr
+  - RelM
+  - Relm2
+  - Stake
+  - LWall
+  - Bullet
+  - Bullet2
+  - DNO
+  - Gr2
+  - PlDrop
+  - GrM
+  - Stop
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Relm
+  - GG
+  - Wall
+  - StEn
+  - Bullet
+  - St
+  - RE2
+  - I
+  - Bullet1
+  - Mine
+  - rr
+  - Ball
+  - SmallHeart
+  - MoneyMan
+  - 1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer
+    uniqueID: 3022821951
+    locked: 0
+  - name: Yt
+    uniqueID: 4050706051
+    locked: 0
+  - name: TY
+    uniqueID: 2172396541
+    locked: 0
+  - name: 2
+    uniqueID: 717130495
+    locked: 0
+  - name: KnL
+    uniqueID: 3610580901
+    locked: 0
+  - name: Hui
+    uniqueID: 71472099
+    locked: 0

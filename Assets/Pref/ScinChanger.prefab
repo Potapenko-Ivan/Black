@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1731866874353000}
+  m_IsPrefabAsset: 1
+--- !u!1 &1731866874353000
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4877445411218136}
+  - component: {fileID: 114287669935343410}
+  m_Layer: 0
+  m_Name: ScinChanger
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4877445411218136
+Transform:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731866874353000}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: -2.39, y: 0.08, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114287669935343410
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1731866874353000}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de11f1e8c4287cd49a2130aa65792edd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Scins:
+  - {fileID: 21300002, guid: c854d499cd88b40449d2b85885b47b5b, type: 3}
+  - {fileID: 21300002, guid: cf2b4a1703717b34b8f7ca9869ef6163, type: 3}
+  - {fileID: 21300002, guid: 2c70cfed38cae9c4497bdd70a16edbe0, type: 3}
+  - {fileID: 21300002, guid: 4cd7d9770c8edb945a9a842ef7e966a6, type: 3}
+  - {fileID: 21300002, guid: 30a18236170deec4aa5ebcef77d2b888, type: 3}
+  - {fileID: 21300002, guid: 457f0ddd9f6c82f49b069a7a80e386d9, type: 3}
+  - {fileID: 21300002, guid: 63cc48f07ed0ffd4990c78ac598bad2a, type: 3}
+  Sr: {fileID: 0}
+  Sm: {fileID: 0}
+  ScinNum: 0
